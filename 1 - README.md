@@ -8,7 +8,7 @@
 
 [Here is an executive memo](https://github.com/kehler2a/CS890/blob/master/4%20-%20Executive%20Memo%20-%20LGD%20model.pdf)
 
-[Here is a PDF of the executive presentation](https://github.com/kehler2a/CS890/blob/master/3a%20-%20Project%20presentation.pdf)
+[Here is a PDF of the executive presentation](https://github.com/kehler2a/CS890/blob/master/4a%20-%20Executive%20presentation.pdf)
 
 [Here is Python Jupyter Notebook for the project proposal](https://github.com/kehler2a/CS890/blob/master/2%20-%20Project%20proposal.ipynb)
 
