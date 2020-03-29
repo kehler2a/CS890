@@ -1,5 +1,7 @@
 ## Adam Kehler (200251114) - CS 890ES at U of Regina in winter 2020
 
+#### Below are links to the deliverables for my CS 890ES project called "Modernizing credit risk modelling: Using machine learning to challenge industry norms".
+
 [Here is a video of project presentation for the class](https://youtu.be/NG_OKTnEHrw)
 
 [Here is a PDF of the project presentation](https://github.com/kehler2a/CS890/blob/master/3a%20-%20Project%20presentation.pdf)
